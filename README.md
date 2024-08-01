@@ -1,4 +1,4 @@
-
+![logo](https://github.com/prachii2323/prachii2323/blob/master/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prachi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU0dWE2bGVvbGU2dHNoYThqNTI1YjNhNXB6ajM3dmhnaGNvamltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
