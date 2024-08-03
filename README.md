@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1URh2k3d0NRp_6zySeKOkP0uy_EMxK3I4/view?usp=drive_link](https://drive.google.com/file/d/1URh2k3d0NRp_6zySeKOkP0uy_EMxK3I4/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am passionate coder, I grab things very fast**
+- ⚡ Fun fact **You look cute when you code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
